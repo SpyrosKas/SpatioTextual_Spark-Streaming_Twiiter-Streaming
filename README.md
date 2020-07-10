@@ -32,10 +32,10 @@ pip install tweepy
 ```
 4. Enter your credentials in `receive-Tweets_coordinates.py`
 ```python
-consumer_key    = 'ENTER YOUR consumer_key'
-consumer_secret = 'ENTER YOUR consumer_secret'
-access_token    = 'ENTER YOUR access_token'
-access_secret   = 'ENTER YOUR access_secret'
+consumer_key    = 'ENTER YOUR CONSUMER_KEY'
+consumer_secret = 'ENTER YOUR CONSUMER_SECRET'
+access_token    = 'ENTER YOUR ACCESS_TOKEN'
+access_secret   = 'ENTER YOUR ACCESS_SECRET'
 ```
 <!-- USAGE EXAMPLES -->
 ## Usage
