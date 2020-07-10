@@ -24,7 +24,7 @@ pip install tweepy
 1. Create a new twitter app and get your credentials at [https://developer.twitter.com/en](https://developer.twitter.com/en)
 2. Clone the repo
 ```sh
-git clone https://github.com/SpyrosKas/SpatioTextual_Spark-Streaming_Twiiter-Streaming.git
+git clone https://github.com/SpyrosKas/SpatioTextual_Spark-Streaming_Twitter-Streaming.git
 ```
 3. Install tweepy 
 ```sh
