@@ -17,6 +17,10 @@ This is an example of how to list things you need to use the software and how to
 ```sh
 pip install tweepy
 ```
+* haversine
+```sh
+pip install haversine
+```
 * [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
 
 ### Installation
@@ -30,7 +34,11 @@ git clone https://github.com/SpyrosKas/SpatioTextual_Spark-Streaming_Twitter-Str
 ```sh
 pip install tweepy
 ```
-4. Enter your credentials in `receive-Tweets_coordinates.py`
+4. Install haversine 
+```sh
+pip install haversine
+```
+5. Enter your credentials in `receive-Tweets_coordinates.py`
 ```python
 consumer_key    = 'ENTER YOUR CONSUMER_KEY'
 consumer_secret = 'ENTER YOUR CONSUMER_SECRET'
